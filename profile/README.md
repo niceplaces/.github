@@ -2,7 +2,7 @@
 
 **Nice Places takes you to discover the places of interest in your area, telling you briefly their history and their characteristics.**
 
-![Nice Places screenshots](devices-en.png)
+![Nice Places screenshots](https://github.com/niceplaces/.github/blob/main/profile/devices-en.png)
 
 This project was born in 2018 from the idea of two students from Siena, Italy to create an application for mobile devices able to let users discover the places of historical and cultural interest in their vicinity, providing brief descriptions about them.
 
