@@ -2,10 +2,14 @@
 
 **Nice Places takes you to discover the places of interest in your area, telling you briefly their history and their characteristics.**
 
-[![Downloads on Google Play](https://img.shields.io/badge/downloads-1.164-success)](https://play.google.com/store/apps/details?id=com.niceplaces.niceplaces)
+[![Downloads on Google Play](https://img.shields.io/badge/downloads-1.187-success)](https://play.google.com/store/apps/details?id=com.niceplaces.niceplaces)
 [![Discord](https://img.shields.io/discord/943606236698509372)](https://discord.gg/p9fC72mzDX)
 
 ![Nice Places screenshots](https://github.com/niceplaces/.github/blob/main/profile/devices-en.png)
+
+<a href="https://play.google.com/store/apps/details?id=com.niceplaces.niceplaces">
+  <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Play Store Badge" width="200"/>
+</a>
 
 This project was born in 2018 from the idea of two students from Siena, Italy to create an application for mobile devices able to let users discover the places of historical and cultural interest in their vicinity, providing brief descriptions about them.
 
