@@ -2,9 +2,9 @@
 
 **Nice Places takes you to discover the places of interest in your area, telling you briefly their history and their characteristics.**
 
-[![Downloads on Google Play](https://img.shields.io/badge/downloads-1.191-success)](https://play.google.com/store/apps/details?id=com.niceplaces.niceplaces)
+[![Downloads on Google Play](https://img.shields.io/badge/downloads-1.2K-success?logo=play-store)](https://play.google.com/store/apps/details?id=com.niceplaces.niceplaces)
 [![Downloads on Google Play](https://img.shields.io/badge/places-599-success)](https://play.google.com/store/apps/details?id=com.niceplaces.niceplaces)
-[![Discord](https://img.shields.io/discord/943606236698509372)](https://discord.gg/p9fC72mzDX)
+[![Discord](https://img.shields.io/discord/943606236698509372?logo=discord&logoColor=white)](https://discord.gg/p9fC72mzDX)
 
 ![Nice Places screenshots](https://github.com/niceplaces/.github/blob/main/profile/devices-en.png)
 
