@@ -1,10 +1,11 @@
 # Discover the culture around you
 
-**Nice Places takes you to discover the places of interest in your area, telling you briefly their history and their characteristics.**
+**Nice Places helps you to discover the places of interest in your area briefly describing their history and characteristics.**
 
-[![Downloads on Google Play](https://img.shields.io/badge/downloads-1.2K-success?logo=play-store)](https://play.google.com/store/apps/details?id=com.niceplaces.niceplaces)
-[![Downloads on Google Play](https://img.shields.io/badge/places-599-success)](https://play.google.com/store/apps/details?id=com.niceplaces.niceplaces)
-[![Discord](https://img.shields.io/discord/943606236698509372?logo=discord&logoColor=white)](https://discord.gg/p9fC72mzDX)
+![Places](https://img.shields.io/endpoint?url=https%3A%2F%2Fwww.niceplaces.it%2Fdata%2Fshields_endpoint.php%3Fparam%3Dplaces_count)
+![Descriptions](https://img.shields.io/endpoint?url=https%3A%2F%2Fwww.niceplaces.it%2Fdata%2Fshields_endpoint.php%3Fparam%3Ddescriptions_count)
+[![Downloads on Google Play](https://img.shields.io/endpoint?url=https%3A%2F%2Fwww.niceplaces.it%2Fdata%2Fshields_endpoint.php%3Fparam%3Ddownloads&logo=googleplay)](https://play.google.com/store/apps/details?id=com.niceplaces.niceplaces)
+[![Contributors](https://img.shields.io/endpoint?url=https%3A%2F%2Fwww.niceplaces.it%2Fdata%2Fshields_endpoint.php%3Fparam%3Dcontributors&logo=awsj)](https://github.com/niceplaces/website/blob/main/AUTHORS.md)
 
 ![Nice Places screenshots](https://github.com/niceplaces/.github/blob/main/profile/devices-en.png)
 
